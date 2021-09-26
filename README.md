@@ -7,7 +7,8 @@ getting more ideas.
 my gmail(sangwachosen24@gmail.com
 my insta sangwa_chosen
 my wechatID sangwa98
-
+- i am currently enrolled in my final year of bachelor in computer science,
+- at ZHENGZHOU UNIVERSITY OF INDUSTRIAL TECHNOLOGY
 <!---
 sangwachosen24/sangwachosen24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
